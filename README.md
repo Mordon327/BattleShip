@@ -15,10 +15,9 @@ Logic
 - Take input to place ships
 - No two places can be occupied
 - Ship places must be next to each other
-
-> \* = Hit
-> "o" = Miss
-> "||" or "=" = Ship
+- \* = Hit
+- "o" = Miss
+- "||" or "=" = Ship
 
 Win Condition
 - One player loses all ships
