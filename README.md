@@ -16,7 +16,7 @@ Logic
 - No two places can be occupied
 - Ship places must be next to each other
 
-* = Hit
+\* = Hit
 "o" = Miss
 "||" or "=" = Ship
 
